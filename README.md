@@ -1,6 +1,7 @@
 # talend-git
 
 *Documentación en desarrollo*
+
 La intención de este repositorio es generar una documentación sobre como utilizar git con Talend Open Studio for Data Integration, es decir, la versión de la comunidad de Talend. 
 
 Trabajando nos dimos cuenta de la necesidad de integrar un tipo de solución de repositorio de código para poder trabajar varias personas en el mismo proyecto y poder manejar los cambios de un modo sencillo y hacer uso de todas las bondades de un repo distribuído como es git.
